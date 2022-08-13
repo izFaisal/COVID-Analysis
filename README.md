@@ -1,3 +1,3 @@
-# COVID-Analysis
+# Heart_Disease
 
-This is a project to Analyize the COVID data
+This is a project to Analyize the Heart Attack Disease
